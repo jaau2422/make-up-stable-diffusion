@@ -1,0 +1,46 @@
+h1 {
+    color: #304BE3;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+p {
+    padding-left: 20px;
+}
+
+.gen-form {
+    padding: 20px;
+}
+
+.resize {
+    width: 150px;
+    height: auto;
+    padding-left: 20px;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    max-width: 500px;
+  }
+
+  button {
+    background-color: #304BE3; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+  }
+
+  .result-image {
+    padding-left: 20px;
+  }
